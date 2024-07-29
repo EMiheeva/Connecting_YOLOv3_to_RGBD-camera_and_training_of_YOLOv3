@@ -24,7 +24,7 @@
 ```
 batch=64  
 subdivisions=16
-max_batches = 6000
+max_batches=6000
 steps=4800,5400
 width=416
 height=416
